@@ -31,20 +31,22 @@ Whether you're reviewing this for potential collaboration or exploring my work, 
 
 ## Table of Contents
 
-- [Project 1: Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
+- [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
 - [Project 2: Car Sales](https://github.com/kChe626/Car_Sales)
 
 
-## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+## [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
 
-In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
+This project focuses on cleaning and standardizing a dataset tracking global workforce layoffs using MySQL. The process involves handling missing values, normalizing data formats, removing duplicates, and ensuring consistency for better analysis.
 
 ## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 
-Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
-###### Deployment [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tushar2704-superstore-dashboard.streamlit.app/)
+This project involves cleaning and standardizing a dataset of US car sales obtained from Kaggle. Using MySQL, I processed the data to remove inconsistencies, handle missing values, and ensure uniform formatting. The cleaned dataset was then analyzed to identify regional variations in car sales, assess manufacturer performance, explore model preferences, and uncover demographic insights.
 
-![3dash](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit/assets/66141195/ca77655e-b101-44e9-b5e7-fcdbf5aae388)
+## [Project 3: Car Sales Dashboard](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
+
+This project focuses on visualizing US car sales data using Tableau. The dataset, sourced from Kaggle, was analyzed to highlight regional variations in car sales, manufacturer performance, model preferences, and demographic trends. The interactive dashboard provides clear insights through dynamic charts and filters, allowing users to explore key automotive market trends efficiently.
+
 
 
 ## Contact Information
