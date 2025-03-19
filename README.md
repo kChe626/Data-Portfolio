@@ -42,7 +42,7 @@ This project focuses on cleaning and standardizing a dataset tracking global wor
 
 ## [Project 2: US Car Sales Data Cleaning & Analysis](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 
-This project involves cleaning and standardizing a dataset of US car sales obtained from Kaggle. Using MySQL, I processed the data to remove inconsistencies, handle missing values, and ensure uniform formatting. The cleaned dataset was then analyzed to identify regional variations in car sales, assess manufacturer performance, explore model preferences, and uncover demographic insights.
+This project involves cleaning and standardizing a dataset of US car sales obtained from Kaggle. Using MySQL, I processed the data to remove inconsistencies, handle missing values, and ensure uniform formatting. After cleaning the dataset, I conducted an in-depth analysis to answer key questions, such as total car sales, regional variations, manufacturer performance, model preferences, and demographic insights. This analysis helps uncover trends and patterns, providing valuable data-driven insights into the automotive market.
 
 ## [Project 3: US Car Sales Dashboard (Tableau)](https://github.com/kChe626/US-Car-Sales-Dashboard-Tableau)
 
