@@ -34,7 +34,7 @@ Whether you're reviewing this for potential collaboration or exploring my work, 
 - [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
 - [Project 2: US Car Sales Data Cleaning & Analysis](https://github.com/kChe626/Car_Sales)
 - [Project 3: US Car Sales Dashboard (Tableau)](https://github.com/kChe626/US-Car-Sales-Dashboard-Tableau)
-- [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/British-Airways-Review)
+- [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
 
 ## [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
 
@@ -48,7 +48,7 @@ This project involves cleaning and standardizing a dataset of US car sales obtai
 
 This project focuses on visualizing US car sales data using Tableau. The dataset, sourced from Kaggle, was analyzed to highlight regional variations in car sales, manufacturer performance, model preferences, and demographic trends. The interactive dashboard provides clear insights through dynamic charts and filters, allowing users to explore key automotive market trends efficiently.
 
-## [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/British-Airways-Review)
+## [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
 
 
 ## Contact Information
