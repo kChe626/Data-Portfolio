@@ -32,8 +32,8 @@ Whether you're reviewing this for potential collaboration or exploring my work, 
 ## Table of Contents
 
 - [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
-- [Project 2: Car Sales](https://github.com/kChe626/Car_Sales)
-
+- [Project 2: US Car Sales Data Cleaning & Analysis](https://github.com/kChe626/Car_Sales)
+- [Project 3: US Car Sales Dashboard (Tableau)](https://github.com/kChe626/US-Car-Sales-Dashboard-Tableau)
 
 ## [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
 
