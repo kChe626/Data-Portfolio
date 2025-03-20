@@ -50,6 +50,8 @@ This project focuses on visualizing US car sales data using Tableau. The dataset
 
 ## [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
 
+This interactive Tableau dashboard analyzes British Airways passenger reviews, highlighting ratings for food, entertainment, service, and comfort. Users can filter by traveler type, seat class, aircraft, and region to explore trends and insights, helping evaluate airline performance and customer satisfaction.
+
 
 ## Contact Information
 
