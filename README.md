@@ -35,6 +35,7 @@ Whether you're reviewing this for potential collaboration or exploring my work, 
 - [Project 2: US Car Sales Data Cleaning & Analysis](https://github.com/kChe626/Car_Sales)
 - [Project 3: US Car Sales Dashboard (Tableau)](https://github.com/kChe626/US-Car-Sales-Dashboard-Tableau)
 - [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
+- [Project 5: Walmart Sales Data Processing (Python)](https://github.com/kChe626/Walmart/blob/main/README.md)
 
 ## [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
 
