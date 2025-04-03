@@ -35,7 +35,7 @@ Whether you're reviewing this for potential collaboration or exploring my work, 
 - [Project 2: US Car Sales Data Cleaning & Analysis](https://github.com/kChe626/Car_Sales)
 - [Project 3: US Car Sales Dashboard (Tableau)](https://github.com/kChe626/US-Car-Sales-Dashboard-Tableau)
 - [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
-- [Project 5: Walmart Sales Data Processing (Python)](https://github.com/kChe626/Walmart/blob/main/README.md)
+- [Project 5: Walmart Sales Data Processing (Python)](https://github.com/kChe626/Walmart)
 
 ## [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
 
@@ -53,6 +53,9 @@ This project focuses on visualizing US car sales data using Tableau. The dataset
 
 This interactive Tableau dashboard analyzes British Airways passenger reviews, highlighting ratings for food, entertainment, service, and comfort. Users can filter by traveler type, seat class, aircraft, and region to explore trends and insights, helping evaluate airline performance and customer satisfaction.
 
+## [Project 5: Walmart Sales Data Processing (Python)](https://github.com/kChe626/Walmart)
+
+This project processes a Kaggle-sourced Walmart sales dataset through a Python pipeline that cleans transactional data (handling duplicates, missing values, and encoding issues), transforms currency formats, calculates derived metrics like total sales, and integrates the refined data into a MySQL database using SQLAlchemy. The workflow demonstrates skills from initial ASCII encoding detection with chardet to final database deployment.
 
 ## Contact Information
 
