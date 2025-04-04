@@ -36,7 +36,7 @@ Whether you're reviewing this for potential collaboration or exploring my work, 
 - [Project 3: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
 - [Project 4: Walmart Sales Data Cleaning & Analysis Project (Python & SQL)](https://github.com/kChe626/Walmart)
 
-## [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
+## [Project 1: Global Employment Layoffs (SQL)](https://github.com/kChe626/Layoffs_Data_Cleaning)
 
 This project focuses on cleaning and standardizing a dataset tracking global workforce layoffs using MySQL. The process involves handling missing values, normalizing data formats, removing duplicates, and ensuring consistency for better analysis.
 
