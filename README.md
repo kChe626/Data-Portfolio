@@ -41,7 +41,7 @@ Whether you're reviewing this for potential collaboration or exploring my work, 
 
 This project focuses on cleaning and standardizing a dataset tracking global workforce layoffs using MySQL. The process involves handling missing values, normalizing data formats, removing duplicates, and ensuring consistency for better analysis.
 
-## [Project 2: US Car Sales Data Cleaning & Analysis](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
+## [Project 2: US Car Sales Data Cleaning & Analysis](https://github.com/kChe626/Car_Sales)
 
 This project involves cleaning and standardizing a dataset of US car sales obtained from Kaggle. Using MySQL, I processed the data to remove inconsistencies, handle missing values, and ensure uniform formatting. After cleaning the dataset, I conducted an in-depth analysis to answer key questions, such as total car sales, regional variations, manufacturer performance, model preferences, and demographic insights. This analysis helps uncover trends and patterns, providing valuable data-driven insights into the automotive market.
 
