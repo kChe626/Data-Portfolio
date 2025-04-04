@@ -32,10 +32,9 @@ Whether you're reviewing this for potential collaboration or exploring my work, 
 ## Table of Contents
 
 - [Project 1: Global Employment Layoffs (SQL)](https://github.com/kChe626/Layoffs_Data_Cleaning)
-- [Project 2: US Car Sales Data Cleaning & Analysis (SQL)](https://github.com/kChe626/Car_Sales)
-- [Project 3: US Car Sales Dashboard (Tableau)](https://github.com/kChe626/US-Car-Sales-Dashboard-Tableau)
-- [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
-- [Project 5: Walmart Sales Data Cleaning & Analysis Project (Python & SQL)](https://github.com/kChe626/Walmart)
+- [Project 2: US Car Sales Data Cleaning & Analysis (SQL & Tableau)](https://github.com/kChe626/Car_Sales)
+- [Project 3: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
+- [Project 4: Walmart Sales Data Cleaning & Analysis Project (Python & SQL)](https://github.com/kChe626/Walmart)
 
 ## [Project 1: Global Employment Layoffs](https://github.com/kChe626/Layoffs_Data_Cleaning)
 
@@ -43,17 +42,13 @@ This project focuses on cleaning and standardizing a dataset tracking global wor
 
 ## [Project 2: US Car Sales Data Cleaning & Analysis](https://github.com/kChe626/Car_Sales)
 
-This project involves cleaning and standardizing a dataset of US car sales obtained from Kaggle. Using MySQL, I processed the data to remove inconsistencies, handle missing values, and ensure uniform formatting. After cleaning the dataset, I conducted an in-depth analysis to answer key questions, such as total car sales, regional variations, manufacturer performance, model preferences, and demographic insights. This analysis helps uncover trends and patterns, providing valuable data-driven insights into the automotive market.
+This project involves cleaning and standardizing a dataset of US car sales obtained from Kaggle. Using MySQL, I processed the data to remove inconsistencies, handle missing values, and ensure uniform formatting. After cleaning the dataset, I conducted an in-depth analysis to answer key questions, such as total car sales, regional variations, manufacturer performance, model preferences, and demographic insights. This analysis helps uncover trends and patterns, providing valuable data-driven insights into the automotive market. This project also visualize US car sales data using Tableau. The dataset, sourced from Kaggle, was analyzed to highlight regional variations in car sales, manufacturer performance, model preferences, and demographic trends. The interactive dashboard provides clear insights through dynamic charts and filters, allowing users to explore key automotive market trends efficiently.
 
-## [Project 3: US Car Sales Dashboard (Tableau)](https://github.com/kChe626/US-Car-Sales-Dashboard-Tableau)
-
-This project focuses on visualizing US car sales data using Tableau. The dataset, sourced from Kaggle, was analyzed to highlight regional variations in car sales, manufacturer performance, model preferences, and demographic trends. The interactive dashboard provides clear insights through dynamic charts and filters, allowing users to explore key automotive market trends efficiently.
-
-## [Project 4: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
+## [Project 3: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
 
 This interactive Tableau dashboard analyzes British Airways passenger reviews, highlighting ratings for food, entertainment, service, and comfort. Users can filter by traveler type, seat class, aircraft, and region to explore trends and insights, helping evaluate airline performance and customer satisfaction.
 
-## [Project 5: Walmart Sales Data Cleaning & Analysis Project (Python & SQL)](https://github.com/kChe626/Walmart)
+## [Project 4: Walmart Sales Data Cleaning & Analysis Project (Python & SQL)](https://github.com/kChe626/Walmart)
 
 This project integrates Python and SQL to clean, transform, and analyze Walmart sales data. It begins by detecting file encoding and cleaning the dataset—removing duplicates, handling missing values, and adding features such as total transaction value. The cleaned data is then exported and loaded into a MySQL database, where SQL queries address key business questions, from analyzing payment methods and branch performance to evaluating year-over-year revenue trends.
 
