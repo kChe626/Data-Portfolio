@@ -13,21 +13,23 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Hi there, and thanks for visiting! This repository showcases my technical capabilities in SQL and data visualization through a collection of projects, case studies, and course exercises. You'll find examples ranging from complex SQL queries (featuring joins, CTEs, and optimization techniques) to interactive Tableau dashboards designed to transform raw data into actionable insights.
+---
 
-Below you'll find highlighted projects demonstrating my ability to:
+### Hello! I’m Kevin — Data-Focused and Results-Driven
 
-🔍 Clean, analyze, and query datasets using SQL
+Welcome to my GitHub portfolio! I'm a data enthusiast with practical experience in **SQL**, **Python**, and data visualization tools like **Tableau** and **Power BI**, focused on solving real business problems through clean data, clear insights, and actionable results.
 
-📊 Create clear, impactful visualizations in Tableau
+In this portfolio, you'll find examples of my work in:
 
-🎯 Solve business problems through data-driven approaches
+-  **SQL** – Writing complex queries, optimizing performance, and working with relational databases to extract meaningful insights.  
+-  **Python** – Data cleaning, analysis, and automation using libraries like Pandas, NumPy, and Matplotlib.  
+-  **Data Visualization** – Creating intuitive dashboards and reports to help stakeholders make informed decisions quickly.
 
-Whether you're reviewing this for potential collaboration or exploring my work, feel free to dive into the code, examine the dashboards, or reach out with questions/feedback. Let's connect and talk data!
+My goal is to bridge the gap between data and decision-making. I’m comfortable owning a project from data wrangling to final presentation, and I enjoy turning ambiguity into clarity through thoughtful analysis.
 
-#Highlighted Projects
+Thanks for stopping by — I’d love to connect and discuss how I can add value to your team!
 
-# Data Analytics Portfolio Projects 
+---
 
 ## Table of Contents
 
