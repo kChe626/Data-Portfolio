@@ -36,7 +36,7 @@ Thanks for stopping by — I’d love to connect and discuss how I can add value
 - [Project 1: Global Employment Layoffs (SQL)](https://github.com/kChe626/Layoffs_Data_Cleaning)
 - [Project 2: US Car Sales Data Cleaning & Analysis (SQL & Tableau)](https://github.com/kChe626/Car_Sales)
 - [Project 3: British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau)
-- [Project 4: Walmart Sales Data Cleaning & Analysis Project (Python & SQL)](https://github.com/kChe626/Walmart)
+- [Project 4: Walmart Sales Data Cleaning & Analysis Project (Python, SQL & Power BI)](https://github.com/kChe626/Walmart)
 
 ## [Project 1: Global Employment Layoffs (SQL)](https://github.com/kChe626/Layoffs_Data_Cleaning)
 
@@ -50,7 +50,7 @@ This project involves cleaning and standardizing a dataset of US car sales obtai
 
 This interactive Tableau dashboard analyzes British Airways passenger reviews, highlighting ratings for food, entertainment, service, and comfort. Users can filter by traveler type, seat class, aircraft, and region to explore trends and insights, helping evaluate airline performance and customer satisfaction.
 
-## [Project 4: Walmart Sales Data Cleaning & Analysis Project (Python & SQL)](https://github.com/kChe626/Walmart)
+## [Project 4: Walmart Sales Data Cleaning & Analysis Project (Python, SQL & Power BI)](https://github.com/kChe626/Walmart)
 
 This project integrates Python and SQL to clean, transform, and analyze Walmart sales data. It begins by detecting file encoding and cleaning the dataset—removing duplicates, handling missing values, and adding features such as total transaction value. The cleaned data is then exported and loaded into a MySQL database, where SQL queries address key business questions, from analyzing payment methods and branch performance to evaluating year-over-year revenue trends.
 
