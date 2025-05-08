@@ -1,4 +1,4 @@
-## 💻 Tech Stack
+##  Tech Stack
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Hello! I’m Kevin — Data-Focused and Results-Driven
+##  Hello! I’m Kevin — Data-Focused and Results-Driven
 
 Welcome to my GitHub portfolio! I'm a data analyst passionate about solving real business problems through clean data, insightful analysis, and clear visualization. My expertise spans:
 
