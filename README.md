@@ -16,13 +16,14 @@
 
 ##  Hello! I’m Kevin — Data-Focused and Results-Driven
 
-Welcome to my GitHub portfolio! I'm a data analyst passionate about solving real business problems through clean data, insightful analysis, and clear visualization. My expertise spans:
+Welcome to my GitHub portfolio! I'm a data analyst passionate about solving real business problems through clean data, insightful analysis, and clear visualization. 
+What I usually work with:
 
-- **SQL** – Building complex queries and optimizing relational database operations  
+- **SQL** – Writing and tuning queries to pull the right info from databases
 - **Python** – Data wrangling, automation, and exploratory analysis using Pandas, NumPy, and Matplotlib  
-- **Visualization** – Designing impactful dashboards in Tableau and Power BI to support data-driven decisions  
+- **Visualization** – Building easy-to-use visuals in Tableau and Power BI that help people make better decisions
 
-I take pride in turning raw data into meaningful insights. Whether it's cleaning messy datasets, uncovering trends, or presenting findings visually—I'm excited by the challenge of making data useful.
+I like digging into data, spotting trends, and helping others understand the story behind the numbers. If it involves organizing chaos or making data easier to work with, I’m all in.
 
 ---
 
