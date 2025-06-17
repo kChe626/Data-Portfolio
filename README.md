@@ -35,6 +35,7 @@ I like digging into data, spotting trends, and helping others understand the sto
 | [US Car Sales Analysis (SQL + Tableau)](https://github.com/kChe626/Car_Sales) | MySQL, Tableau | Sales trends, model performance, regional breakdowns |
 | [British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau) | Tableau | Review-driven service quality analysis for British Airways |
 | [Walmart Sales Analysis (Python + SQL + Power BI)](https://github.com/kChe626/Walmart) | Python, MySQL, Power BI | End-to-end cleaning, transformation, and business insight reporting |
+| [Melbourne Housing Data Project (Python + SQL + Power BI)](https://github.com/kChe626/Melbourne-Housing-Project) | Python, MySQL, Power BI |  Property price trends, regional comparisons, land size distribution, and sales performance over time |
 
 ---
 
