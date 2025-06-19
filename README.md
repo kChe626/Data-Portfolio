@@ -1,4 +1,5 @@
-##  Tech Stack
+
+## Tech Stack
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -10,27 +11,15 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ##  Hello! I’m Kevin
 
-Welcome to my GitHub portfolio! I'm a data analyst passionate about solving real business problems through clean data, insightful analysis, and clear visualization. 
-What I usually work with:
-
-- **SQL** – Writing and tuning queries to pull the right info from databases
-- **Python** – Data wrangling, automation, and exploratory analysis using Pandas, NumPy, and Matplotlib  
-- **Visualization** – Building easy-to-use visuals in Tableau and Power BI that help people make better decisions
-
-I like digging into data, spotting trends, and helping others understand the story behind the numbers. If it involves organizing chaos or making data easier to work with, I’m all in.
-
----
-## Data Portfolio
+Welcome to my GitHub Data portfolio! I'm a data analyst passionate about solving real business problems through clean data, insightful analysis, and clear visualization. 
 
 This repository showcases data projects that combine data cleaning, SQL analysis, and dashboard creation. Each project applies real-world datasets to demonstrate practical data wrangling, querying, and visualization using Python, SQL, Power BI, and Tableau.
 
----
+
 
 ##  Projects
 
@@ -43,6 +32,11 @@ This repository showcases data projects that combine data cleaning, SQL analysis
 | [Melbourne Housing Data Project (Python + SQL + Power BI)](https://github.com/kChe626/Melbourne-Housing-Project) | Python, MySQL, Power BI |  Applies Python data cleaning, SQL analysis, and Power BI dashboards to housing market data. |
 
 ---
+## Skills and Techniques 
+
+- SQL: Writing and tuning queries to pull the right info from databases.
+- Python: Data wrangling, automation, and exploratory analysis using pandas, NumPy, and matplotlib.
+- Visualization: Building easy-to-use visuals in Tableau and Power BI that help people make better decisions.
 
 ## Notes 
 - Each project folder contains its own README.md with specific details, techniques, and queries.
