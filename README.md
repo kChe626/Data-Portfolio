@@ -25,7 +25,7 @@ This repository showcases data projects that combine data cleaning, SQL analysis
 
 | Project | Tools | Focus |
 |--------|-------|-------|
-| [Global Employment Layoffs (SQL)](https://github.com/kChe626/Layoffs_Data_Cleaning) | MySQL | Demonstrates data cleaning and preparation using SQL techniques, focusing on employment and layoff data. |
+| [Global Employment Layoffs (SQL)](https://github.com/kChe626/Layoffs_Data_Cleaning) | MySQL |Demonstrates data cleaning and analysis using SQL techniques, focusing on employment and layoff data.  |
 | [US Car Sales Analysis (SQL + Tableau)](https://github.com/kChe626/Car_Sales) | MySQL, Tableau | Combines SQL data cleaning with Tableau dashboard visualization of car sales trends. |
 | [British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau) | Tableau | Interactive Tableau dashboard analyzing British Airways data. |
 | [Walmart Sales Analysis (Python + SQL + Power BI)](https://github.com/kChe626/Walmart) | Python, MySQL, Power BI | Uses Python for data cleaning, SQL for analysis, and Power BI for dashboard creation. |
