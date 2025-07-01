@@ -30,6 +30,8 @@ This repository showcases data projects that combine data cleaning, SQL analysis
 | [British Airways Dashboard (Tableau)](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau) | Tableau | Interactive Tableau dashboard analyzing British Airways data. |
 | [Walmart Sales Analysis (Python + SQL + Power BI)](https://github.com/kChe626/Walmart) | Python, MySQL, Power BI | Uses Python for data cleaning, SQL for analysis, and Power BI for dashboard creation. |
 | [Melbourne Housing Data Project (Python + SQL + Power BI)](https://github.com/kChe626/Melbourne-Housing-Project) | Python, MySQL, Power BI |  Applies Python data cleaning, SQL analysis, and Power BI dashboards to housing market data. |
+| [Bank Marketing Campaign Analysis (Python + SQL + Power BI)](https://github.com/kChe626/Bank_Marketing) | Python, MySQL, Power BI |  Cleans marketing campaign data with Python, analyzes conversion trends with SQL, and visualizes insights through Power BI dashboards. |
+
 
 ---
 ## Skills and Techniques 
