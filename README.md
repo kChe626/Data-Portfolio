@@ -1,7 +1,5 @@
 # **Kevin Che — Data Analytics Portfolio**
 
----
-
 ## **Tech Stack**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -20,11 +18,11 @@ My projects apply **real-world datasets** and span the full analytics pipeline �
 
 ---
 
-## **📌 Featured Projects**
+## ** Featured Projects**
 
 | Project | Preview & Focus | Tools |
 |---------|-----------------|-------|
-| [**Global Employment Layoffs**](https://github.com/kChe626/Layoffs_Data_Cleaning) | ![Layoffs Preview](https://github.com/kChe626/Snapshots/blob/main/Layoffs.gif)<br>**Focus:** SQL cleaning & trend analysis of global layoff patterns by company, country, and industry. | MySQL |
+| [**Global Employment Layoffs**](https://github.com/kChe626/Layoffs_Data_Cleaning) | ![Layoffs Preview](https://github.com/kChe626/Snapshots/blob/main/Layoffs_SQL_Preview_800.png)<br>**Focus:** SQL cleaning & trend analysis of global layoff patterns by company, country, and industry. | MySQL |
 | [**US Car Sales Analysis**](https://github.com/kChe626/Car_Sales) | ![Car Sales Preview](https://github.com/kChe626/Snapshots/blob/main/Car%20Sales%20Tab.gif)<br>**Focus:** SQL cleaning and Tableau visualization of U.S. car sales trends and revenue by region. | MySQL, Tableau |
 | [**British Airways Dashboard**](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau) | ![Airways Preview](https://github.com/kChe626/Snapshots/blob/main/Airline%20Tab.gif)<br>**Focus:** Tableau dashboard mapping route networks, top destinations, and seasonal flight patterns. | Tableau |
 | [**Walmart Sales Analysis**](https://github.com/kChe626/Walmart) | ![Walmart Preview](https://github.com/kChe626/Walmart/blob/main/Walmart%20Power%20Bi%20Dashboard.gif)<br>**Focus:** Python cleaning, SQL insights, and Power BI dashboard for retail performance monitoring. | Python, MySQL, Power BI |
