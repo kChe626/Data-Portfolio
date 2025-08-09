@@ -13,8 +13,12 @@
 ---
 
 ## **About Me**
-I’m a data analyst passionate about transforming raw data into actionable insights through **cleaning, analysis, and visualization**.  
-My projects apply **real-world datasets** and span the full analytics pipeline — from Python preprocessing and SQL querying to Power BI and Tableau dashboards.
+
+I’m a data and operations analyst passionate about transforming raw data into actionable insights and improving business processes.  
+My work spans the full analytics pipeline — from Python preprocessing and SQL querying to interactive dashboarding in Power BI and Tableau — while also focusing on **operational efficiency, workflow optimization, and KPI monitoring**.  
+
+I create solutions that not only answer analytical questions but also **support operational decision-making** in areas such as sales performance, workforce planning, marketing campaigns, and resource allocation.
+
 
 ---
 
