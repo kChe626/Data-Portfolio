@@ -19,15 +19,14 @@ My projects apply **real-world datasets** and span the full analytics pipeline â
 ---
 
 ## ** Featured Projects**
-
-| Project | Preview & Focus | Tools |
-|---------|-----------------|-------|
-| [**Global Employment Layoffs**](https://github.com/kChe626/Layoffs_Data_Cleaning) | ![Layoffs Preview](https://github.com/kChe626/Snapshots/blob/main/Layoffs_SQL_Preview_800.png)<br>**Focus:** SQL cleaning & trend analysis of global layoff patterns by company, country, and industry. | MySQL |
-| [**US Car Sales Analysis**](https://github.com/kChe626/Car_Sales) | ![Car Sales Preview](https://github.com/kChe626/Snapshots/blob/main/Car%20Sales%20Tab.gif)<br>**Focus:** SQL cleaning and Tableau visualization of U.S. car sales trends and revenue by region. | MySQL, Tableau |
-| [**British Airways Dashboard**](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau) | ![Airways Preview](https://github.com/kChe626/Snapshots/blob/main/Airline%20Tab.gif)<br>**Focus:** Tableau dashboard mapping route networks, top destinations, and seasonal flight patterns. | Tableau |
-| [**Walmart Sales Analysis**](https://github.com/kChe626/Walmart) | ![Walmart Preview](https://github.com/kChe626/Walmart/blob/main/Walmart%20Power%20Bi%20Dashboard.gif)<br>**Focus:** Python cleaning, SQL insights, and Power BI dashboard for retail performance monitoring. | Python, MySQL, Power BI |
-| [**Melbourne Housing Data Project**](https://github.com/kChe626/Melbourne-Housing-Project) | ![Melbourne Preview](https://github.com/kChe626/Melbourne-Housing-Project/blob/main/Housing_Dashboard.gif)<br>**Focus:** Python cleaning, SQL market analysis, and Power BI visualization of housing trends. | Python, MySQL, Power BI |
-| [**Bank Marketing Campaign Analysis**](https://github.com/kChe626/Bank_Marketing) | ![Bank Preview](https://github.com/kChe626/Bank_Marketing/blob/main/Bank_dashboard_preview.gif)<br>**Focus:** Python cleaning, SQL segmentation, and Power BI analysis of campaign conversion rates. | Python, MySQL, Power BI |
+| Project | Preview & Focus | Tools | Operations Impact |
+|---------|-----------------|-------|-------------------|
+| [**Global Employment Layoffs**](https://github.com/kChe626/Layoffs_Data_Cleaning) | ![Layoffs Preview](https://github.com/kChe626/Snapshots/blob/main/Layoffs_SQL_Preview_800.png)<br>**Focus:** SQL cleaning & trend analysis of global layoff patterns by company, country, and industry. | MySQL | Enables HR and operations teams to identify risk sectors, monitor layoff trends, and optimize workforce planning. |
+| [**US Car Sales Analysis**](https://github.com/kChe626/Car_Sales) | ![Car Sales Preview](https://github.com/kChe626/Snapshots/blob/main/Car%20Sales%20Tab.gif)<br>**Focus:** SQL cleaning and Tableau visualization of U.S. car sales trends and revenue by region. | MySQL, Tableau | Supports sales operations by highlighting regional performance, optimizing dealer allocation, and improving inventory strategies. |
+| [**British Airways Dashboard**](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau) | ![Airways Preview](https://github.com/kChe626/Snapshots/blob/main/Airline%20Tab.gif)<br>**Focus:** Tableau dashboard mapping route networks, top destinations, and seasonal flight patterns. | Tableau | Helps route planners and operations managers optimize scheduling, fleet allocation, and passenger load distribution. |
+| [**Walmart Sales Analysis**](https://github.com/kChe626/Walmart) | ![Walmart Preview](https://github.com/kChe626/Walmart/blob/main/Walmart%20Power%20Bi%20Dashboard.gif)<br>**Focus:** Python cleaning, SQL insights, and Power BI dashboard for retail performance monitoring. | Python, MySQL, Power BI | Assists retail operations in managing branch performance, optimizing product assortment, and improving supply chain efficiency. |
+| [**Melbourne Housing Data Project**](https://github.com/kChe626/Melbourne-Housing-Project) | ![Melbourne Preview](https://github.com/kChe626/Melbourne-Housing-Project/blob/main/Housing_Dashboard.gif)<br>**Focus:** Python cleaning, SQL market analysis, and Power BI visualization of housing trends. | Python, MySQL, Power BI | Supports real estate and municipal planning operations with pricing trend insights and property characteristic analysis. |
+| [**Bank Marketing Campaign Analysis**](https://github.com/kChe626/Bank_Marketing) | ![Bank Preview](https://github.com/kChe626/Bank_Marketing/blob/main/Bank_dashboard_preview.gif)<br>**Focus:** Python cleaning, SQL segmentation, and Power BI analysis of campaign conversion rates. | Python, MySQL, Power BI | Improves marketing operations by identifying high-conversion segments, optimizing campaign timing, and streamlining call center workflows. |
 
 ---
 
