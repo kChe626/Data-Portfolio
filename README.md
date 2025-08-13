@@ -1,4 +1,4 @@
-# **Kevin Che — Data Analytics Portfolio**
+# **Kevin Che — Data and Operations Analytics Portfolio**
 
 ## **Tech Stack**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -15,17 +15,17 @@
 ## **About Me**
 
 I’m a data and operations analyst passionate about transforming raw data into actionable insights and improving business processes.  
-My work spans the full analytics pipeline — from Python preprocessing and SQL querying to interactive dashboarding in Power BI and Tableau — while also focusing on **operational efficiency, workflow optimization, and KPI monitoring**.  
+My expertise covers the full analytics pipeline from Python preprocessing and SQL querying to building interactive dashboards in Power BI and Tableau. I focus on operational efficiency, workflow optimization, KPI monitoring, and performance tracking. 
 
-I create solutions that not only answer analytical questions but also **support operational decision-making** in areas such as sales performance, workforce planning, marketing campaigns, and resource allocation.
+I create solutions that provide both analytical insight and operational impact. My work supports contact center performance analysis, workforce planning, risk monitoring, and resource allocation.
 
 
 ---
 
-## ** Featured Projects**
+## **Featured Projects**
 | Project | Preview & Focus | Tools | Operations Impact |
 |---------|-----------------|-------|-------------------|
-| [**Bank Operations KPI Dashboard**](https://github.com/kChe626/bank-operations-kpi-dashboard/tree/main) | ![Bank Preview](https://github.com/kChe626/bank-operations-kpi-dashboard/blob/main/Bank_operation_Dashboard/power_bi/Bank_dashboard_preview.gif)<br>**Focus:** Python cleaning, SQL segmentation, and Power BI analysis of campaign conversion rates. | Python, MySQL, Power BI | Improves marketing operations by identifying high-conversion segments, optimizing campaign timing, and streamlining call center workflows. |
+| [**Bank Operations KPI Dashboard**](https://github.com/kChe626/bank-operations-kpi-dashboard/tree/main) | ![Bank Preview](https://github.com/kChe626/bank-operations-kpi-dashboard/blob/main/Bank_operation_Dashboard/power_bi/Bank_dashboard_preview.gif)<br>**Focus:** Python cleaning, SQL aggregation, and Power BI analysis of operational KPIs including contact volume, conversion rate, and call handling efficiency. |  Python, MySQL, Power BI | Enables banking operations teams to monitor performance, identify underperforming channels or customer segments, optimize workforce allocation, and improve service efficiency. |
 | [**Melbourne Housing Data Project**](https://github.com/kChe626/Melbourne-Housing-Project) | ![Melbourne Preview](https://github.com/kChe626/Melbourne-Housing-Project/blob/main/Housing_Dashboard.gif)<br>**Focus:** Python cleaning, SQL market analysis, and Power BI visualization of housing trends. | Python, MySQL, Power BI | Supports real estate and municipal planning operations with pricing trend insights and property characteristic analysis. |
 | [**Walmart Sales Analysis**](https://github.com/kChe626/Walmart) | ![Walmart Preview](https://github.com/kChe626/Walmart/blob/main/Walmart%20Power%20Bi%20Dashboard.gif)<br>**Focus:** Python cleaning, SQL insights, and Power BI dashboard for retail performance monitoring. | Python, MySQL, Power BI | Assists retail operations in managing branch performance, optimizing product assortment, and improving supply chain efficiency. |
 | [**British Airways Dashboard**](https://github.com/kChe626/Airways-Visulazation-Dashboard-Tableau) | ![Airways Preview](https://github.com/kChe626/Snapshots/blob/main/Airline%20Tab.gif)<br>**Focus:** Tableau dashboard mapping route networks, top destinations, and seasonal flight patterns. | Tableau | Helps route planners and operations managers optimize scheduling, fleet allocation, and passenger load distribution. |
@@ -38,7 +38,8 @@ I create solutions that not only answer analytical questions but also **support 
 - **SQL:** Writing and optimizing queries for data extraction, transformation, and aggregation  
 - **Python:** Data wrangling, automation, and exploratory analysis using pandas, NumPy, and matplotlib  
 - **Visualization:** Building interactive dashboards in Tableau and Power BI to support decision-making  
-- **Data Cleaning:** Standardizing, deduplicating, and validating datasets for analysis-ready quality  
+- **Data Cleaning:** Standardizing, deduplicating, and validating datasets for analysis-ready quality
+- **Operational Analysis:** KPI tracking, contact center performance measurement, process improvement, and workforce planning 
 
 ---
 
